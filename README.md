@@ -1,2 +1,5 @@
-# Harirampur-Samol-Nisshorgo
-My professor gave this task to me. He was my supervisior in third year first semeter project. after doing my academic project, he told me to make a project for a orgination ( Harrirampur Samol Nisshorgo), where he is a member, for managing the member and keeping track. He provided me the essencial instructions. I followed his instructions, finally i did it.
+Harrirampur Samol Nisshorgo Member Management System
+This project is developed for Harrirampur Samol Nisshorgo, an organization where my professor is a member. The system is designed to manage the members of the organization and track relevant activities.
+
+Background
+In my third-year first-semester academic project, I received guidance from my professor, who later entrusted me with this task for the organization. Following his essential instructions, I created this system to streamline member management processes and ensure easy tracking of their activities.
